@@ -1,18 +1,18 @@
 "use client";
 
 import React, { useEffect } from "react";
-import Navbar from "../Components/Navbar";
-import Main from "../Components/Main";
-import Creative from "../Components/Creative";
-import LeadPopup from "../Components/LeadPopup";
-import About from "../Components/About";
-import OurServices from "../Components/OurServices";
+import Navbar from "@/components/Navbar";
+import Main from "@/components/Main";
+import Creative from "@/components/Creative";
+import LeadPopup from "@/components/LeadPopup";
+import About from "@/components/About";
+import OurServices from "@/components/OurServices";
 
-import Features from "../Components/Features";
-import HowWork from "../Components/HowWork";
-import Testimonials from "../Components/Testimonials";
-import ContactUs from "../Components/ContactUs";
-import Footer from "../Components/Footer";
+import Features from "@/components/Features";
+import HowWork from "@/components/HowWork";
+import Testimonials from "@/components/Testimonials";
+import ContactUs from "@/components/ContactUs";
+import Footer from "@/components/Footer";
 // import PricingDropDown from "../Components/PricingDropDown";
 
 import { Element } from "react-scroll";
